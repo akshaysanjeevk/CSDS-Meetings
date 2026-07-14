@@ -3,35 +3,35 @@
   "meetings": [
     {
       "date": "2026-07-15",
-      "speaker": "Saptarshi Chakraborty"
+      "speaker": "Hareesh J."
     },
     {
       "date": "2026-07-22",
-      "speaker": "Hareesh J. "
-    },
-    {
-      "date": "2026-07-29",
       "speaker": "Nandini Mitra"
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-07-29",
       "speaker": "Anuran Pal"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-05",
       "speaker": "Soumyadip Banarjee"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-12",
       "speaker": "Kalyani Murali"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-19",
       "speaker": "Akshay Sanjeev K."
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-08-26",
       "speaker": "Ananta Dutta"
+    },
+    {
+      "date": "2026-09-02",
+      "speaker": "Md. Ashraf"
     }
   ]
 }
