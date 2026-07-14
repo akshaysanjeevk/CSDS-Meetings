@@ -2,35 +2,43 @@
   "generated_on": "2026-07-14",
   "meetings": [
     {
-      "date": "2026-07-15",
+      "date": "2026-07-17",
+      "time": "14:00",
       "speaker": "Hareesh J."
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-07-24",
+      "time": "14:00",
       "speaker": "Nandini Mitra"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-31",
+      "time": "14:00",
       "speaker": "Anuran Pal"
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
+      "time": "14:00",
       "speaker": "Soumyadip Banarjee"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-14",
+      "time": "14:00",
       "speaker": "Kalyani Murali"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-21",
+      "time": "14:00",
       "speaker": "Akshay Sanjeev K."
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-28",
+      "time": "14:00",
       "speaker": "Ananta Dutta"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
+      "time": "14:00",
       "speaker": "Md. Ashraf"
     }
   ]
