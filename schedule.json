@@ -1,11 +1,6 @@
 {
-  "generated_on": "2026-08-05",
+  "generated_on": "2026-08-12",
   "meetings": [
-    {
-      "date": "2026-08-07",
-      "time": "14:00",
-      "speaker": "Hareesh J."
-    },
     {
       "date": "2026-08-14",
       "time": "14:00",
@@ -40,6 +35,11 @@
       "date": "2026-09-25",
       "time": "14:00",
       "speaker": "Md. Ashraf"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:00",
+      "speaker": "Shakti N. Menon"
     }
   ]
 }
