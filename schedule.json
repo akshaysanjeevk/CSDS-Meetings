@@ -1,11 +1,6 @@
 {
-  "generated_on": "2026-08-12",
+  "generated_on": "2026-08-19",
   "meetings": [
-    {
-      "date": "2026-08-14",
-      "time": "14:00",
-      "speaker": "Nandini Mitra"
-    },
     {
       "date": "2026-08-21",
       "time": "14:00",
@@ -40,6 +35,11 @@
       "date": "2026-10-02",
       "time": "14:00",
       "speaker": "Shakti N. Menon"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "14:00",
+      "speaker": "Saptarshi Chakraborty"
     }
   ]
 }
