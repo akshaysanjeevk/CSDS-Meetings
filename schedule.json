@@ -1,50 +1,45 @@
 {
-  "generated_on": "2026-08-21",
+  "generated_on": "2026-10-21",
   "meetings": [
     {
-      "date": "2026-08-21",
+      "date": "2026-10-23",
+      "time": "14:00",
+      "speaker": "Saptarshi Chakraborty"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "14:00",
+      "speaker": "Prateek Yadav"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "14:00",
+      "speaker": "Ananta Dutta"
+    },
+    {
+      "date": "2026-11-13",
       "time": "14:00",
       "speaker": "Deeksha"
     },
     {
-      "date": "2026-08-23",
-      "time": "14:00",
-      "speaker": "Akshay Sanjeev K."
-    },
-    {
-      "date": "2026-08-28",
+      "date": "2026-11-20",
       "time": "14:00",
       "speaker": "Shakti N. Menon"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-11-27",
       "time": "14:00",
       "speaker": "Md. Ashraf"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-12-04",
       "time": "14:00",
       "speaker": "Hareesh J."
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-12-11",
       "time": "14:00",
       "speaker": "Nandini Mitra"
-    },
-    {
-      "date": "2026-09-25",
-      "time": "14:00",
-      "speaker": "Anuran Pal"
-    },
-    {
-      "date": "2026-10-02",
-      "time": "14:00",
-      "speaker": "Soumyadip Banarjee"
-    },
-    {
-      "date": "2026-10-09",
-      "time": "14:00",
-      "speaker": "Kalyani Murali"
     }
   ]
 }
