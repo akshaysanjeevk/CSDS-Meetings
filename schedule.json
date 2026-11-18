@@ -1,11 +1,6 @@
 {
-  "generated_on": "2026-11-11",
+  "generated_on": "2026-11-18",
   "meetings": [
-    {
-      "date": "2026-11-13",
-      "time": "14:00",
-      "speaker": "Deeksha"
-    },
     {
       "date": "2026-11-20",
       "time": "14:00",
@@ -40,6 +35,11 @@
       "date": "2027-01-01",
       "time": "14:00",
       "speaker": "Kalyani Murali"
+    },
+    {
+      "date": "2027-01-08",
+      "time": "14:00",
+      "speaker": "Akshay Sanjeev K."
     }
   ]
 }
